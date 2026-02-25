@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 120" role="img" aria-labelledby="title desc">
+  <title id="title">BENTHON Logo</title>
+  <desc id="desc">BENTHON wordmark with cyan emblem on the right</desc>
+
+  <text
+    x="0"
+    y="84"
+    fill="#EAF1F7"
+    font-family="Montserrat, Poppins, Segoe UI, Arial, sans-serif"
+    font-size="76"
+    font-weight="700"
+    letter-spacing="4"
+  >
+    BENTHON
+  </text>
+
+  <g transform="translate(510,18)" fill="#20B7FF">
+    <rect x="22" y="0" width="14" height="14" rx="7"/>
+    <rect x="10" y="12" width="14" height="14" rx="7"/>
+    <rect x="0" y="24" width="14" height="14" rx="7"/>
+    <rect x="12" y="36" width="14" height="14" rx="7"/>
+    <rect x="24" y="48" width="14" height="14" rx="7"/>
+    <rect x="36" y="36" width="14" height="14" rx="7"/>
+    <rect x="48" y="24" width="14" height="14" rx="7"/>
+    <rect x="60" y="12" width="14" height="14" rx="7"/>
+  </g>
+</svg>
