@@ -17,4 +17,4 @@
 - LocalStorage
 
 ## 🌍 Live Demo
-( deploying on Vercel, paste link here after deployment )
+https://employee-management-frontend-xi-two.vercel.app/login
